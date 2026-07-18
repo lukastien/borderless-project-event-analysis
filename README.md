@@ -6,11 +6,9 @@ An Excel-based analysis of a full year of live events for Borderless Project, a 
 
 ## Dashboard
 
-![Dashboard KPIs and Top Charts](images/dashboard-top.png)
-*Replace this with a screenshot of your KPI cards + Monthly Revenue Trend + Revenue by Genre charts*
+<img width="1225" height="520" alt="Screenshot 2026-07-17 at 5 48 33 PM" src="https://github.com/user-attachments/assets/b65107cb-985c-47ec-958a-c590dbb2e619" />
 
-![Dashboard Bottom Charts](images/dashboard-bottom.png)
-*Replace this with a screenshot of your Attendance Rate by Day of Week + Revenue by City charts*
+<img width="1227" height="359" alt="Screenshot 2026-07-17 at 5 48 55 PM" src="https://github.com/user-attachments/assets/fdd30d9a-0635-469b-8a01-7f6303cc1c26" />
 
 ## Overview
 
